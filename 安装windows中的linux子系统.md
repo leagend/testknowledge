@@ -1,8 +1,10 @@
 ###在windows 10安装linux###
 1.启用开发者模式
+
 ![在更新和安全中开启开发者模式](https://www.howtogeek.com/wp-content/uploads/2016/04/img_570999e304309.png)
 
 2.安装Windows中的linux子系统
+
 ![在“启用或管理Windows功能”中启用windows中linux子系统](https://www.howtogeek.com/wp-content/uploads/2016/04/img_570999427548f.png)
 
 3.安装lxrun
